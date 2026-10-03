@@ -26,4 +26,4 @@ Python, Pandas, SQLAlchemy, PostgreSQL
 Table constraints (primary key, CHECK, NOT NULL) prevent bad data; the reconciliation check detects rows lost between source and target.
 
 ## Sample output
-(add a screenshot of the PASS lines here)
+![Pipeline output](docs/output.png)
